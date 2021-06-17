@@ -1,0 +1,263 @@
+[
+    {
+        "id": "1a07685d-7814-45c4-a6cb-81f22907a6ce",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/201566.png",
+        "name": "Russell Westbrook",
+        "wechat_id": "russell_westbrook",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Russell Westbrook!"
+    },
+    {
+        "id": "2eaec40b-4900-4b4d-a7a7-3ec0d07b1881",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1629029.png",
+        "name": "Luka Doncic",
+        "wechat_id": "luka_doncic",
+        "gender": "male",
+        "region": "Slovenia",
+        "whats_up": "Hello, I'm Luka Doncic!"
+    },
+    {
+        "id": "3c9ce785-87dd-4a24-b580-d40744f0ca54",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203999.png",
+        "name": "Nikola Jokic",
+        "wechat_id": "nikola_jokic",
+        "gender": "male",
+        "region": "Serbia",
+        "whats_up": "Hello, I'm Nikola Jokic!"
+    },
+    {
+        "id": "4ea57f56-e68d-448b-8bc5-5365aa08fd96",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203903.png",
+        "name": "Jordan Clarkson",
+        "wechat_id": "jordan_clarkson",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Jordan Clarkson!"
+    },
+    {
+        "id": "4f2887e3-0a98-4c9d-b016-e452c42987c1",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1629008.png",
+        "name": "Michael Porter Jr.",
+        "wechat_id": "michael_porter_jr.",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Michael Porter Jr.!"
+    },
+    {
+        "id": "5ee66bfa-65b7-4df6-a244-21925fb0ae4a",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/202695.png",
+        "name": "Kawhi Leonard",
+        "wechat_id": "kawhi_leonard",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Kawhi Leonard!"
+    },
+    {
+        "id": "7c9bf4e0-3930-4bc4-88e5-e2cc82d1b3e4",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/201565.png",
+        "name": "Derrick Rose",
+        "wechat_id": "derrick_rose",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Derrick Rose!"
+    },
+    {
+        "id": "9e201c7a-cd92-4f9a-894f-2c28f17d4f8d",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1629027.png",
+        "name": "Trae Young",
+        "wechat_id": "trae_young",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Trae Young!"
+    },
+    {
+        "id": "54f6e724-19da-418b-be24-0de0051d0dcc",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203944.png",
+        "name": "Julius Randle",
+        "wechat_id": "julius_randle",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Julius Randle!"
+    },
+    {
+        "id": "64f102ee-dbd5-47a6-a9e8-117d7fa859b7",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203078.png",
+        "name": "Bradley Beal",
+        "wechat_id": "bradley_beal",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Bradley Beal!"
+    },
+    {
+        "id": "69e92437-6743-44d9-9146-7494a2817950",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1628369.png",
+        "name": "Jayson Tatum",
+        "wechat_id": "jayson_tatum",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Jayson Tatum!"
+    },
+    {
+        "id": "82cdc519-31f8-41b5-aac4-3145e167ee1e",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/201142.png",
+        "name": "Kevin Durant",
+        "wechat_id": "kevin_durant",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Kevin Durant!"
+    },
+    {
+        "id": "112ec2a2-68d3-4949-9ce9-82ec80db9c60",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1629630.png",
+        "name": "Ja Morant",
+        "wechat_id": "ja_morant",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Ja Morant!"
+    },
+    {
+        "id": "151c0903-4010-44c4-a4c8-f627a4620725",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/202681.png",
+        "name": "Kyrie Irving",
+        "wechat_id": "kyrie_irving",
+        "gender": "male",
+        "region": "Australia",
+        "whats_up": "Hello, I'm Kyrie Irving!"
+    },
+    {
+        "id": "370cf0b1-4199-4a5d-a164-cc6479b9f0b8",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1628378.png",
+        "name": "Donovan Mitchell",
+        "wechat_id": "donovan_mitchell",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Donovan Mitchell!"
+    },
+    {
+        "id": "417b6d22-e6b6-42ee-80e0-d49465ea1a0d",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203954.png",
+        "name": "Joel Embiid",
+        "wechat_id": "joel_embiid",
+        "gender": "male",
+        "region": "Cameroon",
+        "whats_up": "Hello, I'm Joel Embiid!"
+    },
+    {
+        "id": "479eae63-0834-4caf-ac13-0fb5123a20f0",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1628415.png",
+        "name": "Dillon Brooks",
+        "wechat_id": "dillon_brooks",
+        "gender": "male",
+        "region": "Canada",
+        "whats_up": "Hello, I'm Dillon Brooks!"
+    },
+    {
+        "id": "843e9d35-771a-45a5-b33e-8872f6055c7f",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203501.png",
+        "name": "Tim Hardaway Jr.",
+        "wechat_id": "tim_hardaway_jr.",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Tim Hardaway Jr.!"
+    },
+    {
+        "id": "6126e147-bb09-443a-8f04-309adcb02e7f",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/202699.png",
+        "name": "Tobias Harris",
+        "wechat_id": "tobias_harris",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Tobias Harris!"
+    },
+    {
+        "id": "7352f90e-3a3f-40f4-b07c-910a714562e4",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203076.png",
+        "name": "Anthony Davis",
+        "wechat_id": "anthony_davis",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Anthony Davis!"
+    },
+    {
+        "id": "68248a35-70f9-4c61-b3f2-6481f2ae1c4c",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203081.png",
+        "name": "Damian Lillard",
+        "wechat_id": "damian_lillard",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Damian Lillard!"
+    },
+    {
+        "id": "a0b5c9a0-6f9d-4ff1-9cdb-c7d93a480c32",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203507.png",
+        "name": "Giannis Antetokounmpo",
+        "wechat_id": "Giannis_antetokounmpo",
+        "gender": "male",
+        "region": "Greece",
+        "whats_up": "Hello, I'm Giannis Antetokounmpo!"
+    },
+    {
+        "id": "a3fbe859-e64b-4c5d-888e-2bb0abee5bcd",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1626164.png",
+        "name": "Devin Booker",
+        "wechat_id": "devin_booker",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Devin Booker!"
+    },
+    {
+        "id": "c4e73309-7d73-44c8-ab29-7a6d474d8f37",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203935.png",
+        "name": "Marcus Smart",
+        "wechat_id": "marcus_smart",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Marcus Smart!"
+    },
+    {
+        "id": "d8c4bc2f-c3b2-408a-8f03-9a869b1819cc",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/202711.png",
+        "name": "Bojan Bogdanovic",
+        "wechat_id": "boja_bogdanovic",
+        "gender": "male",
+        "region": "Croatia",
+        "whats_up": "Hello, I'm Bojan Bogdanovic!"
+    },
+    {
+        "id": "eab11cef-71f1-462e-a2a1-30ceb17da81b",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/202331.png",
+        "name": "Paul George",
+        "wechat_id": "paul_george",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Paul George!"
+    },
+    {
+        "id": "ef48d400-6c58-4190-9031-77137c3afee5",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/1626181.png",
+        "name": "Norman Powell",
+        "wechat_id": "norman_powell",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Norman Powell!"
+    },
+    {
+        "id": "f50cc283-6d79-458c-a24e-4291bb6acaf2",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203114.png",
+        "name": "Khris Middleton",
+        "wechat_id": "khris_middleton",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm Khris Middleton!"
+    },
+    {
+        "id": "fe4fa9b0-6121-4865-b30a-2b0af493ab43",
+        "avatar": "https://cdn.nba.com/headshots/nba/latest/260x190/203468.png",
+        "name": "CJ McCollum",
+        "wechat_id": "cj_mccollum",
+        "gender": "male",
+        "region": "USA",
+        "whats_up": "Hello, I'm CJ McCollum!"
+    }
+]
