@@ -1,0 +1,74 @@
+[
+  {
+    "id": "79faec54-38af-4f71-9e77-6f2df7a48b32",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/zhaoshangyinhang.jpeg",
+    "name": "招商银行",
+    "pinyin": "zhaoshangyinhang"
+  },
+  {
+    "id": "343ad705-7a81-464d-b711-b0a6ffab3a57",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/canbangxintiandigouwugongyuan.jpeg",
+    "name": "灿邦新天地购物公园",
+    "pinyin": "canbangxintiandigouwugongyuan"
+  },
+  {
+    "id": "903d63af-fd36-4389-b5d5-59bdb99a2d7e",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/aixinlouba.jpeg",
+    "name": "爱心楼巴",
+    "pinyin": "aixinlouba"
+  },
+  {
+    "id": "979ebe95-14ff-4144-a87e-582b3c105869",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/aliangshumakeji.jpeg",
+    "name": "阿亮数码科技",
+    "pinyin": "aliangshumakeji"
+  },
+  {
+    "id": "93209b2a-f4d2-43b9-b173-228c417b1a8e",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/kejimeixue.jpeg",
+    "name": "科技美学",
+    "pinyin": "kejimeixue"
+  },
+  {
+    "id": "641093be-a7a9-4a50-ad4b-77948492c29d",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/liuxiaoboshuoloushi.jpeg",
+    "name": "刘晓博说楼市",
+    "pinyin": "liuxiaoboshuoloushi"
+  },
+  {
+    "id": "2166107d-af53-42cc-a1ed-7ba811aade1b",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/huananbishengke.jpeg",
+    "name": "华南必胜客",
+    "pinyin": "huananbishengke"
+  },
+  {
+    "id": "a52dbee6-6e4e-454c-88cb-1665a2a79e7b",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/shenzhenbendibao.jpeg",
+    "name": "深圳本地宝",
+    "pinyin": "shenzhenbendibao"
+  },
+  {
+    "id": "af4ea724-93ba-4044-9633-402d4ed8c16b",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/weysuv.jpeg",
+    "name": "WEYSUV",
+    "pinyin": "weysuv"
+  },
+  {
+    "id": "bb09fca5-f5ab-41ca-907a-2fa4c329005b",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/zhongguogongshangyinhangkehufuwu.jpeg",
+    "name": "中国工行银行客户服务",
+    "pinyin": "zhongguogongshangyinhangkehufuwu"
+  },
+  {
+    "id": "c5937756-21ed-48f9-9596-ef0edc1553b1",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/tengxunxinyong.jpeg",
+    "name": "腾讯信用",
+    "pinyin": "tengxunxinyong"
+  },
+  {
+    "id": "cf73ed17-20b5-4254-b67c-c6539acb4d81",
+    "avatar": "https://raw.githubusercontent.com/Lebron1992/WeChat-SwiftUI-Database/main/images/guangdongdianxin.jpeg",
+    "name": "广东电信",
+    "pinyin": "guangdongdianxin"
+  }
+]
